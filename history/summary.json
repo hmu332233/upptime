@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 873,
-    "timeWeek": 375,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "time": 384,
+    "timeDay": 333,
+    "timeWeek": 398,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/gatsby-starter-minung.netlify.app",
     "slug": "gatsby-starter",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 529,
-    "timeDay": 389,
-    "timeWeek": 337,
-    "timeMonth": 529,
-    "timeYear": 529,
-    "dailyMinutesDown": {
-      "2021-09-22": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 518,
+    "timeDay": 317,
+    "timeWeek": 353,
+    "timeMonth": 518,
+    "timeYear": 518,
+    "dailyMinutesDown": {}
   },
   {
     "name": "help-jbnu--page",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 566,
-    "timeWeek": 230,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 235,
+    "timeDay": 199,
+    "timeWeek": 241,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   }
 ]
