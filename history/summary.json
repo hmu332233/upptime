@@ -4,10 +4,10 @@
     "url": "https://blog-new.minung.dev",
     "icon": "https://favicons.githubusercontent.com/blog-new.minung.dev",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
@@ -15,16 +15,18 @@
     "timeWeek": 626,
     "timeMonth": 393,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-10": 2
+    }
   },
   {
     "name": "gatsby-starter",
     "url": "https://gatsby-starter-minung.netlify.app",
     "icon": "https://favicons.githubusercontent.com/gatsby-starter-minung.netlify.app",
     "slug": "gatsby-starter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 231,
     "timeMonth": 438,
     "timeYear": 486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-10": 0
+    }
   },
   {
     "name": "help-jbnu--page",
