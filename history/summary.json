@@ -4,19 +4,19 @@
     "url": "https://blog-new.minung.dev",
     "icon": "https://favicons.githubusercontent.com/blog-new.minung.dev",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 2407,
-    "timeWeek": 626,
-    "timeMonth": 393,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.88%",
+    "time": 423,
+    "timeDay": 1624,
+    "timeWeek": 653,
+    "timeMonth": 407,
+    "timeYear": 423,
     "dailyMinutesDown": {
-      "2021-10-10": 2
+      "2021-10-10": 59
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gatsby-starter-minung.netlify.app",
     "icon": "https://favicons.githubusercontent.com/gatsby-starter-minung.netlify.app",
     "slug": "gatsby-starter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.89%",
     "time": 486,
-    "timeDay": 170,
-    "timeWeek": 231,
-    "timeMonth": 438,
+    "timeDay": 323,
+    "timeWeek": 262,
+    "timeMonth": 439,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2021-10-10": 0
+      "2021-10-10": 57
     }
   },
   {
