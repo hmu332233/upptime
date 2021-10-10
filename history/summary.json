@@ -24,19 +24,19 @@
     "url": "https://gatsby-starter-minung.netlify.app",
     "icon": "https://favicons.githubusercontent.com/gatsby-starter-minung.netlify.app",
     "slug": "gatsby-starter",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.86%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.89%",
     "time": 485,
     "timeDay": 368,
     "timeWeek": 283,
     "timeMonth": 440,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2021-10-10": 69
+      "2021-10-10": 57
     }
   },
   {
