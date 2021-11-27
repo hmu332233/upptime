@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 371,
-    "timeDay": 353,
-    "timeWeek": 315,
+    "time": 368,
+    "timeDay": 134,
+    "timeWeek": 292,
     "timeMonth": 288,
-    "timeYear": 371,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2021-10-10": 59
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/gatsby-starter-minung.netlify.app",
     "slug": "gatsby-starter",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.92%",
-    "time": 390,
-    "timeDay": 506,
-    "timeWeek": 380,
+    "uptimeYear": "99.93%",
+    "time": 387,
+    "timeDay": 163,
+    "timeWeek": 383,
     "timeMonth": 331,
-    "timeYear": 390,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2021-11-04": 31,
       "2021-10-10": 57
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 210,
-    "timeWeek": 185,
-    "timeMonth": 209,
-    "timeYear": 243,
+    "time": 241,
+    "timeDay": 64,
+    "timeWeek": 180,
+    "timeMonth": 208,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   }
 ]
