@@ -24,7 +24,7 @@
     "url": "https://gatsby-starter-minung.netlify.app",
     "icon": "https://favicons.githubusercontent.com/gatsby-starter-minung.netlify.app",
     "slug": "gatsby-starter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 244,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2022-02-10": 0,
       "2021-11-04": 31,
       "2021-10-10": 57
     }
