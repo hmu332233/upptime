@@ -9,6 +9,9 @@ sites:
     url: https://gatsby-starter-minung.netlify.app
   - name: help-jbnu--page
     url: https://help-jbnu--page.minung.dev
+  - name: q-link
+    url: https://q-link.minung.dev
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
