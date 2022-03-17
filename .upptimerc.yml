@@ -6,11 +6,13 @@ sites:
   - name: blog
     url: https://blog-new.minung.dev
   - name: gatsby-starter
-    url: https://gatsby-starter-minung.netlify.app
+    url: https://minung.gatsbyjs.io
   - name: help-jbnu--page
     url: https://help-jbnu--page.minung.dev
   - name: q-link
     url: https://q-link.minung.dev
+  - name: moon.svg
+    url: https://moon-svg.minung.dev
 
 
 status-website:
