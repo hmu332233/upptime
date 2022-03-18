@@ -64,19 +64,19 @@
     "url": "https://q-link.minung.dev",
     "icon": "https://favicons.githubusercontent.com/q-link.minung.dev",
     "slug": "q-link",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 629,
-    "timeWeek": 313,
-    "timeMonth": 254,
-    "timeYear": 254,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 253,
+    "timeDay": 532,
+    "timeWeek": 306,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2022-03-18": 0
+      "2022-03-18": 16
     }
   },
   {
