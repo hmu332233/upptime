@@ -104,19 +104,19 @@
     "url": "https://celebration.minung.dev",
     "icon": "https://favicons.githubusercontent.com/celebration.minung.dev",
     "slug": "celebration",
-    "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "96.34%",
-    "uptimeYear": "96.34%",
-    "time": 686,
-    "timeDay": 686,
-    "timeWeek": 686,
-    "timeMonth": 686,
-    "timeYear": 686,
+    "status": "up",
+    "uptime": "43.88%",
+    "uptimeDay": "43.88%",
+    "uptimeWeek": "43.88%",
+    "uptimeMonth": "43.88%",
+    "uptimeYear": "43.88%",
+    "time": 374,
+    "timeDay": 374,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {
-      "2022-05-01": 1
+      "2022-05-01": 22
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://web-recorder.minung.dev",
     "icon": "https://favicons.githubusercontent.com/web-recorder.minung.dev",
     "slug": "web-recorder",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
-    "time": 471,
-    "timeDay": 471,
-    "timeWeek": 471,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "status": "up",
+    "uptime": "38.73%",
+    "uptimeDay": "38.73%",
+    "uptimeWeek": "38.73%",
+    "uptimeMonth": "38.73%",
+    "uptimeYear": "38.73%",
+    "time": 295,
+    "timeDay": 295,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2022-05-01": 0
+      "2022-05-01": 22
     }
   },
   {
@@ -162,19 +162,19 @@
     "url": "https://tips.minung.dev",
     "icon": "https://favicons.githubusercontent.com/tips.minung.dev",
     "slug": "tips",
-    "status": "up",
-    "uptime": "4.45%",
-    "uptimeDay": "4.45%",
-    "uptimeWeek": "4.45%",
-    "uptimeMonth": "4.45%",
-    "uptimeYear": "4.45%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
     "time": 539,
     "timeDay": 539,
     "timeWeek": 539,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-05-01": 12
+      "2022-05-01": 0
     }
   },
   {
