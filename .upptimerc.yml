@@ -15,7 +15,14 @@ sites:
     url: https://moon-svg.minung.dev
   - name: celebration
     url: https://celebration.minung.dev
-
+  - name: web-recorder
+    url: https://web-recorder.minung.dev
+  - name: peer-voice
+    url: https://peer-voice.minung.dev
+  - name: tips
+    url: https://tips.minung.dev
+  - name: lecture-ranking
+    url: https://lecture-ranking.vercel.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
