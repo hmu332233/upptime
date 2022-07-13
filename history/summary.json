@@ -4,10 +4,10 @@
     "url": "https://blog-new.minung.dev",
     "icon": "https://favicons.githubusercontent.com/blog-new.minung.dev",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 256,
@@ -16,6 +16,7 @@
     "timeMonth": 211,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2022-07-13": 1,
       "2021-10-10": 59
     }
   },
@@ -126,9 +127,9 @@
     "url": "https://web-recorder.minung.dev",
     "icon": "https://favicons.githubusercontent.com/web-recorder.minung.dev",
     "slug": "web-recorder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
@@ -138,6 +139,7 @@
     "timeMonth": 165,
     "timeYear": 216,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-05-03": 177,
       "2022-05-02": 37,
       "2022-05-01": 41
