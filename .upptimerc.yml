@@ -13,6 +13,8 @@ sites:
     url: https://q-link.minung.dev
   - name: moon.svg
     url: https://moon-svg.minung.dev
+  - name: tip-tap
+    url: https://tip-tap.minung.dev
   - name: celebration
     url: https://celebration.minung.dev
   - name: web-recorder
