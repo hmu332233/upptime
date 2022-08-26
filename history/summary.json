@@ -4,11 +4,11 @@
     "url": "https://blog-new.minung.dev",
     "icon": "https://favicons.githubusercontent.com/blog-new.minung.dev",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 251,
     "timeDay": 103,
@@ -16,6 +16,7 @@
     "timeMonth": 218,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2022-08-26": 3,
       "2021-10-10": 59
     }
   },
@@ -46,10 +47,10 @@
     "url": "https://help-jbnu--page.minung.dev",
     "icon": "https://favicons.githubusercontent.com/help-jbnu--page.minung.dev",
     "slug": "help-jbnu-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
@@ -57,7 +58,9 @@
     "timeWeek": 602,
     "timeMonth": 308,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 2
+    }
   },
   {
     "name": "q-link",
@@ -84,10 +87,10 @@
     "url": "https://moon-svg.minung.dev",
     "icon": "https://favicons.githubusercontent.com/moon-svg.minung.dev",
     "slug": "moon-svg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 141,
@@ -96,6 +99,7 @@
     "timeMonth": 167,
     "timeYear": 141,
     "dailyMinutesDown": {
+      "2022-08-26": 2,
       "2022-04-22": 38
     }
   },
@@ -104,10 +108,10 @@
     "url": "https://tip-tap.minung.dev",
     "icon": "https://favicons.githubusercontent.com/tip-tap.minung.dev",
     "slug": "tip-tap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1196,
@@ -115,17 +119,19 @@
     "timeWeek": 1140,
     "timeMonth": 1193,
     "timeYear": 1196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 1
+    }
   },
   {
     "name": "celebration",
     "url": "https://celebration.minung.dev",
     "icon": "https://favicons.githubusercontent.com/celebration.minung.dev",
     "slug": "celebration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 221,
@@ -134,6 +140,7 @@
     "timeMonth": 275,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2022-08-26": 1,
       "2022-05-03": 54,
       "2022-05-02": 74,
       "2022-05-01": 22
