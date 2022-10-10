@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 264,
-    "timeWeek": 205,
-    "timeMonth": 253,
-    "timeYear": 240,
+    "timeDay": 229,
+    "timeWeek": 217,
+    "timeMonth": 257,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2022-08-26": 19,
-      "2021-10-10": 59
+      "2022-08-26": 19
     }
   },
   {
@@ -30,17 +29,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 214,
-    "timeDay": 285,
-    "timeWeek": 120,
-    "timeMonth": 182,
-    "timeYear": 188,
+    "timeDay": 148,
+    "timeWeek": 128,
+    "timeMonth": 183,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2022-09-15": 64,
       "2022-02-10": 16,
-      "2021-11-04": 31,
-      "2021-10-10": 57
+      "2021-11-04": 31
     }
   },
   {
@@ -55,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 393,
-    "timeWeek": 221,
-    "timeMonth": 287,
-    "timeYear": 209,
+    "timeDay": 219,
+    "timeWeek": 217,
+    "timeMonth": 289,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2022-08-26": 19
     }
@@ -74,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 635,
-    "timeDay": 539,
-    "timeWeek": 593,
-    "timeMonth": 577,
-    "timeYear": 635,
+    "time": 634,
+    "timeDay": 554,
+    "timeWeek": 597,
+    "timeMonth": 578,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2022-03-18": 16
     }
@@ -95,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 164,
-    "timeDay": 220,
-    "timeWeek": 165,
-    "timeMonth": 212,
+    "timeDay": 185,
+    "timeWeek": 180,
+    "timeMonth": 213,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2022-08-26": 18,
@@ -115,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1218,
-    "timeDay": 1326,
-    "timeWeek": 1368,
-    "timeMonth": 1244,
-    "timeYear": 1218,
+    "time": 1208,
+    "timeDay": 385,
+    "timeWeek": 1234,
+    "timeMonth": 1214,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2022-08-26": 18
     }
@@ -136,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 208,
-    "timeDay": 180,
-    "timeWeek": 146,
-    "timeMonth": 181,
+    "timeDay": 211,
+    "timeWeek": 157,
+    "timeMonth": 185,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2022-08-26": 17,
@@ -159,9 +157,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 207,
-    "timeDay": 350,
-    "timeWeek": 172,
-    "timeMonth": 189,
+    "timeDay": 274,
+    "timeWeek": 196,
+    "timeMonth": 196,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2022-05-03": 177,
@@ -181,9 +179,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 475,
-    "timeWeek": 266,
-    "timeMonth": 219,
+    "timeDay": 160,
+    "timeWeek": 273,
+    "timeMonth": 218,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2022-05-02": 16
@@ -201,9 +199,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 167,
-    "timeDay": 213,
-    "timeWeek": 229,
-    "timeMonth": 187,
+    "timeDay": 214,
+    "timeWeek": 232,
+    "timeMonth": 191,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2022-05-03": 65,
@@ -217,16 +215,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lecture-ranking.vercel.app.ico",
     "slug": "lecture-ranking",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 140,
-    "timeDay": 170,
-    "timeWeek": 138,
-    "timeMonth": 157,
-    "timeYear": 140,
+    "uptimeYear": "99.97%",
+    "time": 141,
+    "timeDay": 413,
+    "timeWeek": 191,
+    "timeMonth": 168,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2022-05-03": 81
     }
