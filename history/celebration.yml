@@ -1,7 +1,7 @@
 url: https://celebration.minung.dev
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2022-12-10T23:15:53.597Z
+status: down
+code: 502
+responseTime: 71
+lastUpdated: 2022-12-11T09:45:38.011Z
 startTime: Sun May 01 2022 17:59:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
