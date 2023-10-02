@@ -24,18 +24,20 @@
     "url": "https://minung.gatsbyjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/minung.gatsbyjs.io.ico",
     "slug": "gatsby-starter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 225,
-    "timeWeek": 124,
-    "timeMonth": 130,
+    "time": 124,
+    "timeDay": 263,
+    "timeWeek": 146,
+    "timeMonth": 135,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-02": 0
+    }
   },
   {
     "name": "help-jbnu--page",
