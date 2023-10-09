@@ -27,8 +27,8 @@
     "status": "down",
     "uptime": "99.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.65%",
-    "uptimeMonth": "77.14%",
+    "uptimeWeek": "0.59%",
+    "uptimeMonth": "77.12%",
     "uptimeYear": "98.09%",
     "time": 124,
     "timeDay": 220,
@@ -36,7 +36,7 @@
     "timeMonth": 149,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2023-10-09": 683,
+      "2023-10-09": 688,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
@@ -51,19 +51,19 @@
     "url": "https://help-jbnu--page.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/help-jbnu--page.minung.dev.ico",
     "slug": "help-jbnu-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 180,
-    "timeWeek": 174,
-    "timeMonth": 160,
+    "timeDay": 124,
+    "timeWeek": 161,
+    "timeMonth": 157,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2023-10-09": 0,
+      "2023-10-09": 6,
       "2022-11-08": 19
     }
   },
@@ -94,9 +94,9 @@
     "slug": "moon-svg",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 177,
     "timeDay": 158,
@@ -104,7 +104,7 @@
     "timeMonth": 138,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-10-09": 0,
+      "2023-10-09": 6,
       "2022-11-08": 18
     }
   },
@@ -176,9 +176,9 @@
     "slug": "web-recorder",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 106,
@@ -186,7 +186,7 @@
     "timeMonth": 127,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2023-10-09": 0
+      "2023-10-09": 6
     }
   },
   {
@@ -196,9 +196,9 @@
     "slug": "peer-voice",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 138,
@@ -206,7 +206,7 @@
     "timeMonth": 114,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-10-09": 0
+      "2023-10-09": 6
     }
   },
   {
@@ -216,9 +216,9 @@
     "slug": "tips",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 82,
@@ -226,7 +226,7 @@
     "timeMonth": 166,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-10-09": 0
+      "2023-10-09": 6
     }
   },
   {
