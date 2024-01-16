@@ -4,10 +4,10 @@
     "url": "https://blog-new.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog-new.minung.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
@@ -15,7 +15,9 @@
     "timeWeek": 106,
     "timeMonth": 133,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 1
+    }
   },
   {
     "name": "gatsby-starter",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minung.gatsbyjs.io.ico",
     "slug": "gatsby-starter",
     "status": "down",
-    "uptime": "87.76%",
+    "uptime": "87.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.10%",
+    "uptimeYear": "70.94%",
     "time": 141,
     "timeDay": 137,
     "timeWeek": 209,
     "timeMonth": 217,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-01-16": 19,
+      "2024-01-16": 852,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -148,10 +150,10 @@
     "url": "https://help-jbnu--page.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/help-jbnu--page.minung.dev.ico",
     "slug": "help-jbnu-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
@@ -159,7 +161,9 @@
     "timeWeek": 126,
     "timeMonth": 134,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 1
+    }
   },
   {
     "name": "q-link",
