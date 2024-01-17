@@ -6,9 +6,9 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 119,
@@ -16,7 +16,7 @@
     "timeMonth": 131,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-01-17": 12
+      "2024-01-17": 17
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 214,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-01-17": 1314,
+      "2024-01-17": 1320,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -151,19 +151,19 @@
     "url": "https://help-jbnu--page.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/help-jbnu--page.minung.dev.ico",
     "slug": "help-jbnu-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 654,
-    "timeWeek": 328,
-    "timeMonth": 196,
-    "timeYear": 181,
+    "time": 202,
+    "timeDay": 771,
+    "timeWeek": 404,
+    "timeMonth": 225,
+    "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 6
     }
   },
   {
@@ -173,9 +173,9 @@
     "slug": "q-link",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1434,
     "timeDay": 599,
@@ -183,7 +183,7 @@
     "timeMonth": 1531,
     "timeYear": 1741,
     "dailyMinutesDown": {
-      "2024-01-17": 12,
+      "2024-01-17": 18,
       "2023-01-25": 21
     }
   },
@@ -192,19 +192,19 @@
     "url": "https://moon-svg.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/moon-svg.minung.dev.ico",
     "slug": "moon-svg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 110,
-    "timeWeek": 95,
-    "timeMonth": 99,
-    "timeYear": 153,
+    "time": 172,
+    "timeDay": 460,
+    "timeWeek": 214,
+    "timeMonth": 131,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-01-17": 12
+      "2024-01-17": 17
     }
   },
   {
@@ -213,10 +213,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dday-widget.minung.dev.ico",
     "slug": "dday-widget",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 120,
@@ -224,7 +224,7 @@
     "timeMonth": 102,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-01-17": 12
+      "2024-01-17": 18
     }
   },
   {
@@ -234,9 +234,9 @@
     "slug": "tip-tap",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1312,
     "timeDay": 217,
@@ -244,7 +244,7 @@
     "timeMonth": 1079,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2024-01-17": 12,
+      "2024-01-17": 18,
       "2023-06-13": 78
     }
   },
@@ -255,9 +255,9 @@
     "slug": "celebration",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 1175,
@@ -265,7 +265,7 @@
     "timeMonth": 159,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-01-17": 11
+      "2024-01-17": 17
     }
   },
   {
@@ -273,19 +273,19 @@
     "url": "https://web-recorder.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/web-recorder.minung.dev.ico",
     "slug": "web-recorder",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 149,
-    "timeDay": 155,
-    "timeWeek": 90,
-    "timeMonth": 87,
-    "timeYear": 127,
+    "time": 151,
+    "timeDay": 502,
+    "timeWeek": 213,
+    "timeMonth": 120,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-01-17": 11,
+      "2024-01-17": 17,
       "2023-10-09": 23
     }
   },
@@ -296,9 +296,9 @@
     "slug": "peer-voice",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 128,
@@ -306,7 +306,7 @@
     "timeMonth": 89,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-01-17": 11
+      "2024-01-17": 17
     }
   },
   {
@@ -316,9 +316,9 @@
     "slug": "tips",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 150,
     "timeDay": 662,
@@ -326,7 +326,7 @@
     "timeMonth": 114,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-01-17": 11,
+      "2024-01-17": 17,
       "2023-10-09": 23
     }
   },
@@ -337,9 +337,9 @@
     "slug": "lecture-ranking",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 200,
@@ -347,7 +347,7 @@
     "timeMonth": 128,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-01-17": 6
+      "2024-01-17": 12
     }
   }
 ]
