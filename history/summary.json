@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minung.gatsbyjs.io.ico",
     "slug": "gatsby-starter",
     "status": "down",
-    "uptime": "81.61%",
+    "uptime": "81.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "53.29%",
+    "uptimeYear": "53.08%",
     "time": 149,
     "timeDay": 280,
     "timeWeek": 213,
     "timeMonth": 214,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-03-21": 19,
+      "2024-03-21": 1119,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -215,10 +215,10 @@
     "url": "https://help-jbnu--page.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/help-jbnu--page.minung.dev.ico",
     "slug": "help-jbnu-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
@@ -226,7 +226,9 @@
     "timeWeek": 165,
     "timeMonth": 158,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 2
+    }
   },
   {
     "name": "q-link",
