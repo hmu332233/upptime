@@ -6,7 +6,7 @@ sites:
   - name: blog
     url: https://blog-new.minung.dev
   - name: gatsby-starter
-    url: https://minung.gatsbyjs.io
+    url: https://gatsby-starter-minung.vercel.app
   - name: help-jbnu--page
     url: https://help-jbnu--page.minung.dev
   - name: q-link
