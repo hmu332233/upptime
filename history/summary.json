@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 178,
-    "timeWeek": 207,
-    "timeMonth": 180,
-    "timeYear": 159,
+    "timeDay": 269,
+    "timeWeek": 231,
+    "timeMonth": 184,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2024-01-17": 17
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gatsby-starter-minung.vercel.app.ico",
     "slug": "gatsby-starter",
     "status": "up",
-    "uptime": "70.59%",
+    "uptime": "70.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.65%",
+    "uptimeMonth": "29.94%",
     "uptimeYear": "12.66%",
-    "time": 198,
-    "timeDay": 291,
-    "timeWeek": 170,
-    "timeMonth": 241,
-    "timeYear": 229,
+    "time": 199,
+    "timeDay": 260,
+    "timeWeek": 197,
+    "timeMonth": 245,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2024-08-16": 473,
       "2024-08-15": 1440,
@@ -369,10 +369,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 123,
-    "timeWeek": 186,
-    "timeMonth": 168,
+    "time": 178,
+    "timeDay": 274,
+    "timeWeek": 200,
+    "timeMonth": 172,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -387,11 +387,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1820,
-    "timeDay": 591,
-    "timeWeek": 1989,
-    "timeMonth": 1653,
-    "timeYear": 1728,
+    "time": 1821,
+    "timeDay": 2624,
+    "timeWeek": 1970,
+    "timeMonth": 1721,
+    "timeYear": 1729,
     "dailyMinutesDown": {
       "2024-01-17": 25
     }
@@ -408,9 +408,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 128,
-    "timeWeek": 124,
-    "timeMonth": 150,
+    "timeDay": 187,
+    "timeWeek": 140,
+    "timeMonth": 152,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2024-01-17": 17
@@ -428,9 +428,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 280,
-    "timeWeek": 159,
-    "timeMonth": 165,
+    "timeDay": 122,
+    "timeWeek": 153,
+    "timeMonth": 166,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-01-17": 25
@@ -448,9 +448,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1337,
-    "timeDay": 1603,
-    "timeWeek": 996,
-    "timeMonth": 1110,
+    "timeDay": 1710,
+    "timeWeek": 1204,
+    "timeMonth": 1129,
     "timeYear": 1212,
     "dailyMinutesDown": {
       "2024-01-17": 25
@@ -468,9 +468,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 178,
-    "timeWeek": 148,
-    "timeMonth": 118,
+    "timeDay": 134,
+    "timeWeek": 153,
+    "timeMonth": 119,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2024-01-17": 25
@@ -488,8 +488,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 162,
-    "timeWeek": 152,
+    "timeDay": 114,
+    "timeWeek": 144,
     "timeMonth": 119,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -509,9 +509,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 69,
-    "timeWeek": 98,
-    "timeMonth": 108,
+    "timeDay": 100,
+    "timeWeek": 99,
+    "timeMonth": 109,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-01-17": 25
@@ -529,9 +529,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 175,
-    "timeWeek": 145,
-    "timeMonth": 274,
+    "timeDay": 118,
+    "timeWeek": 124,
+    "timeMonth": 275,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2024-01-17": 25,
@@ -550,9 +550,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 74,
-    "timeWeek": 124,
-    "timeMonth": 120,
+    "timeDay": 160,
+    "timeWeek": 135,
+    "timeMonth": 123,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2024-01-17": 20
