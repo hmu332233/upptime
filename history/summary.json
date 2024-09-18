@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 184,
-    "timeWeek": 189,
-    "timeMonth": 185,
-    "timeYear": 161,
+    "timeDay": 123,
+    "timeWeek": 187,
+    "timeMonth": 182,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2024-01-17": 17
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gatsby-starter-minung.vercel.app.ico",
     "slug": "gatsby-starter",
     "status": "up",
-    "uptime": "71.21%",
+    "uptime": "71.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "12.66%",
     "time": 198,
-    "timeDay": 83,
-    "timeWeek": 111,
-    "timeMonth": 122,
-    "timeYear": 227,
+    "timeDay": 65,
+    "timeWeek": 93,
+    "timeMonth": 120,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2024-08-16": 473,
       "2024-08-15": 1440,
@@ -370,10 +370,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 142,
-    "timeWeek": 163,
-    "timeMonth": 161,
-    "timeYear": 172,
+    "timeDay": 131,
+    "timeWeek": 154,
+    "timeMonth": 157,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -387,11 +387,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1825,
-    "timeDay": 418,
-    "timeWeek": 1709,
-    "timeMonth": 1951,
-    "timeYear": 1710,
+    "time": 1827,
+    "timeDay": 1953,
+    "timeWeek": 1681,
+    "timeMonth": 1996,
+    "timeYear": 1708,
     "dailyMinutesDown": {
       "2024-01-17": 25
     }
@@ -408,9 +408,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 106,
-    "timeWeek": 115,
-    "timeMonth": 129,
+    "timeDay": 138,
+    "timeWeek": 118,
+    "timeMonth": 130,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2024-01-17": 17
@@ -428,9 +428,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 229,
-    "timeWeek": 205,
-    "timeMonth": 156,
+    "timeDay": 181,
+    "timeWeek": 206,
+    "timeMonth": 157,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-01-17": 25
@@ -447,10 +447,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1323,
-    "timeDay": 167,
-    "timeWeek": 1239,
-    "timeMonth": 1207,
+    "time": 1321,
+    "timeDay": 1562,
+    "timeWeek": 1238,
+    "timeMonth": 1208,
     "timeYear": 1212,
     "dailyMinutesDown": {
       "2024-01-17": 25
@@ -468,9 +468,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 80,
-    "timeWeek": 120,
-    "timeMonth": 126,
+    "timeDay": 63,
+    "timeWeek": 116,
+    "timeMonth": 125,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2024-01-17": 25
@@ -488,9 +488,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 89,
-    "timeWeek": 124,
-    "timeMonth": 123,
+    "timeDay": 56,
+    "timeWeek": 118,
+    "timeMonth": 121,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-01-17": 17,
@@ -509,9 +509,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 120,
-    "timeWeek": 114,
-    "timeMonth": 110,
+    "timeDay": 131,
+    "timeWeek": 122,
+    "timeMonth": 109,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2024-01-17": 25
@@ -529,9 +529,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 88,
-    "timeWeek": 101,
-    "timeMonth": 119,
+    "timeDay": 57,
+    "timeWeek": 97,
+    "timeMonth": 117,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2024-01-17": 25,
@@ -550,9 +550,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 100,
+    "timeDay": 126,
     "timeWeek": 100,
-    "timeMonth": 134,
+    "timeMonth": 135,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-01-17": 20
