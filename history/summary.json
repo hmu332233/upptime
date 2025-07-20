@@ -11,10 +11,10 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 187,
-    "timeWeek": 181,
-    "timeMonth": 162,
-    "timeYear": 166,
+    "timeDay": 168,
+    "timeWeek": 184,
+    "timeMonth": 161,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2025-07-19": 11
     }
@@ -29,12 +29,12 @@
     "uptimeDay": "99.25%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "92.47%",
+    "uptimeYear": "92.52%",
     "time": 169,
-    "timeDay": 114,
-    "timeWeek": 110,
-    "timeMonth": 134,
-    "timeYear": 135,
+    "timeDay": 110,
+    "timeWeek": 118,
+    "timeMonth": 131,
+    "timeYear": 134,
     "dailyMinutesDown": {
       "2025-07-19": 11,
       "2024-08-16": 473,
@@ -63,8 +63,7 @@
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
-      "2024-07-21": 1440,
-      "2024-07-20": 1440
+      "2024-07-21": 1440
     }
   },
   {
@@ -74,18 +73,16 @@
     "slug": "help-jbnu-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 177,
-    "timeWeek": 146,
+    "timeDay": 157,
+    "timeWeek": 160,
     "timeMonth": 152,
     "timeYear": 173,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "q-link",
@@ -94,18 +91,16 @@
     "slug": "q-link",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1843,
-    "timeDay": 2352,
-    "timeWeek": 2219,
-    "timeMonth": 2258,
-    "timeYear": 1894,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "time": 1840,
+    "timeDay": 1479,
+    "timeWeek": 1990,
+    "timeMonth": 2200,
+    "timeYear": 1896,
+    "dailyMinutesDown": {}
   },
   {
     "name": "moon.svg",
@@ -114,18 +109,16 @@
     "slug": "moon-svg",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 134,
-    "timeWeek": 152,
-    "timeMonth": 140,
-    "timeYear": 137,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "timeDay": 116,
+    "timeWeek": 160,
+    "timeMonth": 139,
+    "timeYear": 138,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dday.widget",
@@ -134,18 +127,16 @@
     "slug": "dday-widget",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 156,
-    "timeWeek": 126,
-    "timeMonth": 125,
+    "timeDay": 163,
+    "timeWeek": 132,
+    "timeMonth": 126,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tip-tap",
@@ -154,18 +145,16 @@
     "slug": "tip-tap",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 932,
-    "timeWeek": 1398,
-    "timeMonth": 1502,
-    "timeYear": 1299,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "time": 1285,
+    "timeDay": 330,
+    "timeWeek": 1246,
+    "timeMonth": 1460,
+    "timeYear": 1296,
+    "dailyMinutesDown": {}
   },
   {
     "name": "celebration",
@@ -174,18 +163,16 @@
     "slug": "celebration",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 126,
-    "timeWeek": 124,
-    "timeMonth": 125,
+    "timeDay": 130,
+    "timeWeek": 122,
+    "timeMonth": 124,
     "timeYear": 138,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "web-recorder",
@@ -194,18 +181,16 @@
     "slug": "web-recorder",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 170,
-    "timeWeek": 145,
-    "timeMonth": 127,
+    "timeDay": 161,
+    "timeWeek": 146,
+    "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "peer-voice",
@@ -214,18 +199,16 @@
     "slug": "peer-voice",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 112,
-    "timeWeek": 107,
+    "time": 120,
+    "timeDay": 107,
+    "timeWeek": 103,
     "timeMonth": 117,
-    "timeYear": 122,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "timeYear": 121,
+    "dailyMinutesDown": {}
   },
   {
     "name": "tips",
@@ -234,18 +217,16 @@
     "slug": "tips",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 100,
-    "timeWeek": 105,
+    "time": 149,
+    "timeDay": 102,
+    "timeWeek": 106,
     "timeMonth": 118,
     "timeYear": 165,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lecture-ranking",
@@ -254,17 +235,15 @@
     "slug": "lecture-ranking",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 87,
-    "timeWeek": 112,
+    "timeDay": 102,
+    "timeWeek": 120,
     "timeMonth": 123,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2025-07-19": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
