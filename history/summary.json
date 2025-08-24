@@ -4,9 +4,9 @@
     "url": "https://blog-new.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog-new.minung.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.37%",
+    "uptimeDay": "99.36%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
@@ -24,13 +24,13 @@
     "url": "https://gatsby-starter-minung.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/gatsby-starter-minung.vercel.app.ico",
     "slug": "gatsby-starter",
-    "status": "up",
-    "uptime": "77.99%",
-    "uptimeDay": "99.37%",
+    "status": "down",
+    "uptime": "78.00%",
+    "uptimeDay": "99.35%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 159,
+    "time": 158,
     "timeDay": 101,
     "timeWeek": 125,
     "timeMonth": 132,
@@ -44,11 +44,11 @@
     "url": "https://help-jbnu--page.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/help-jbnu--page.minung.dev.ico",
     "slug": "help-jbnu-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 148,
@@ -56,7 +56,7 @@
     "timeMonth": 144,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://q-link.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/q-link.minung.dev.ico",
     "slug": "q-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1835,
+    "time": 1838,
     "timeDay": 2298,
     "timeWeek": 1742,
     "timeMonth": 2012,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -84,11 +84,11 @@
     "url": "https://moon-svg.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/moon-svg.minung.dev.ico",
     "slug": "moon-svg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 141,
@@ -96,7 +96,7 @@
     "timeMonth": 128,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -104,11 +104,11 @@
     "url": "https://dday-widget.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dday-widget.minung.dev.ico",
     "slug": "dday-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
     "timeDay": 96,
@@ -116,7 +116,7 @@
     "timeMonth": 133,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -124,11 +124,11 @@
     "url": "https://tip-tap.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tip-tap.minung.dev.ico",
     "slug": "tip-tap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1278,
     "timeDay": 1642,
@@ -136,7 +136,7 @@
     "timeMonth": 1396,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -144,11 +144,11 @@
     "url": "https://celebration.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/celebration.minung.dev.ico",
     "slug": "celebration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 99,
@@ -156,7 +156,7 @@
     "timeMonth": 106,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://web-recorder.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/web-recorder.minung.dev.ico",
     "slug": "web-recorder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
+    "time": 124,
     "timeDay": 144,
     "timeWeek": 113,
     "timeMonth": 125,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -184,11 +184,11 @@
     "url": "https://peer-voice.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/peer-voice.minung.dev.ico",
     "slug": "peer-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 85,
@@ -196,7 +196,7 @@
     "timeMonth": 112,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://tips.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tips.minung.dev.ico",
     "slug": "tips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
+    "time": 150,
     "timeDay": 104,
     "timeWeek": 94,
     "timeMonth": 107,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://lecture-ranking.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lecture-ranking.vercel.app.ico",
     "slug": "lecture-ranking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
+    "time": 119,
     "timeDay": 91,
     "timeWeek": 111,
     "timeMonth": 125,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-08-24": 9
+      "2025-08-24": 0
     }
   }
 ]
