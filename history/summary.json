@@ -6,9 +6,9 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 163,
     "timeDay": 233,
@@ -16,7 +16,7 @@
     "timeMonth": 177,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-09-24": 6,
+      "2025-09-25": 0,
       "2025-09-02": 36
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://gatsby-starter-minung.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/gatsby-starter-minung.vercel.app.ico",
     "slug": "gatsby-starter",
-    "status": "up",
-    "uptime": "78.46%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.91%",
+    "status": "down",
+    "uptime": "78.47%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 154,
     "timeDay": 86,
@@ -37,7 +37,7 @@
     "timeMonth": 152,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-09-24": 6,
+      "2025-09-25": 0,
       "2025-09-02": 35
     }
   },
@@ -46,9 +46,9 @@
     "url": "https://help-jbnu--page.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/help-jbnu--page.minung.dev.ico",
     "slug": "help-jbnu-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 179,
     "timeYear": 173,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 35
     }
   },
@@ -66,18 +67,19 @@
     "url": "https://q-link.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/q-link.minung.dev.ico",
     "slug": "q-link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 1886,
+    "time": 1885,
     "timeDay": 1444,
     "timeWeek": 1408,
     "timeMonth": 2088,
     "timeYear": 1949,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 35
     }
   },
@@ -86,9 +88,9 @@
     "url": "https://moon-svg.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/moon-svg.minung.dev.ico",
     "slug": "moon-svg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -98,6 +100,7 @@
     "timeMonth": 155,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 34
     }
   },
@@ -106,9 +109,9 @@
     "url": "https://dday-widget.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dday-widget.minung.dev.ico",
     "slug": "dday-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -118,6 +121,7 @@
     "timeMonth": 146,
     "timeYear": 142,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 34
     }
   },
@@ -126,9 +130,9 @@
     "url": "https://tip-tap.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tip-tap.minung.dev.ico",
     "slug": "tip-tap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -138,6 +142,7 @@
     "timeMonth": 1331,
     "timeYear": 1311,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 34
     }
   },
@@ -146,9 +151,9 @@
     "url": "https://celebration.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/celebration.minung.dev.ico",
     "slug": "celebration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -158,6 +163,7 @@
     "timeMonth": 154,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 33
     }
   },
@@ -166,9 +172,9 @@
     "url": "https://web-recorder.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/web-recorder.minung.dev.ico",
     "slug": "web-recorder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -178,6 +184,7 @@
     "timeMonth": 152,
     "timeYear": 134,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 33
     }
   },
@@ -186,11 +193,11 @@
     "url": "https://peer-voice.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/peer-voice.minung.dev.ico",
     "slug": "peer-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 59,
@@ -198,6 +205,7 @@
     "timeMonth": 125,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 33
     }
   },
@@ -206,9 +214,9 @@
     "url": "https://tips.minung.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tips.minung.dev.ico",
     "slug": "tips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -218,6 +226,7 @@
     "timeMonth": 130,
     "timeYear": 150,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 32
     }
   },
@@ -226,9 +235,9 @@
     "url": "https://lecture-ranking.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lecture-ranking.vercel.app.ico",
     "slug": "lecture-ranking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
@@ -238,6 +247,7 @@
     "timeMonth": 131,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-02": 32,
       "2025-08-26": 369,
       "2025-08-25": 111
