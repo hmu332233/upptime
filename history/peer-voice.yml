@@ -1,7 +1,7 @@
 url: https://peer-voice.minung.dev
-status: up
-code: 200
-responseTime: 60
-lastUpdated: 2025-10-20T07:17:56.106Z
+status: down
+code: 429
+responseTime: 85
+lastUpdated: 2025-10-20T07:54:18.348Z
 startTime: 2022-05-01T18:03:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
