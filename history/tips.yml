@@ -1,7 +1,7 @@
 url: https://tips.minung.dev
-status: up
-code: 200
-responseTime: 56
-lastUpdated: 2025-10-20T07:17:58.455Z
+status: down
+code: 429
+responseTime: 138
+lastUpdated: 2025-10-20T07:48:33.224Z
 startTime: 2022-05-01T18:03:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
