@@ -1,7 +1,7 @@
 url: https://gatsby-starter-minung.vercel.app
-status: up
-code: 200
-responseTime: 60
-lastUpdated: 2025-10-20T07:17:32.301Z
+status: down
+code: 500
+responseTime: 3369
+lastUpdated: 2025-10-20T07:35:27.828Z
 startTime: 2021-09-05T10:25:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
