@@ -1,7 +1,7 @@
 url: https://web-recorder.minung.dev
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2025-10-19T23:04:52.671Z
+status: down
+code: 500
+responseTime: 3415
+lastUpdated: 2025-10-20T07:09:02.731Z
 startTime: 2022-05-01T18:03:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
